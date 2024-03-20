@@ -10,4 +10,4 @@ Im currently learning Full stack web devlopment (through the Odin Project)
 ![](https://raw.githubusercontent.com/jarvis09-yann/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/jarvis09-yann/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-[![My skills](https://skillicons.dev/icons?i=js,html,css,python,linux)](https://jarvis09.com)
+[![My skills](https://skillicons.dev/icons?i=js,html,css,python,linux,git)](https://jarvis09.com)
